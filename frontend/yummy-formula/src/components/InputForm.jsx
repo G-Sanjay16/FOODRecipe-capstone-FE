@@ -22,6 +22,7 @@ const handleOnSubmit=async(e)=>{
 
 
     return (
+        <>
         <form className='form' onSubmit={handleOnSubmit}>
             <div className='form-control'>
                 <label>Email</label>
@@ -35,6 +36,7 @@ const handleOnSubmit=async(e)=>{
             { (error!="") && <h6 className='error'>{error}</h6>}<br></br>
             <p onClick={()=>setIsSignUp(pre=>!pre)}>{(isSignUp) ? "Already have an account": "Create new account"}</p>
         </form>
+        </>
     );
 }
 
