@@ -36,8 +36,6 @@ Front-end: React, Axios, Bootstrap, Javascript, React icon
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354262/react-router.svg" height="40" alt="React Router"  />
   <img width="12" />
-  <img src="https://www.google.com/imgres?q=react%20icons%20ICON&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Freact-icons%2Freact-icons%2Fmaster%2Freact-icons.svg&imgrefurl=https%3A%2F%2Fgithub.com%2Freact-icons%2Freact-icons&docid=NHeh7aZHX6VteM&tbnid=in8LRqjDdtVeLM&vet=12ahUKEwjWtqGc-K-IAxWq2jgGHbh-AuUQM3oECBoQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjWtqGc-K-IAxWq2jgGHbh-AuUQM3oECBoQAA" height="40" alt="react logo"  />
-  <img width="12" />
 </div>
 
 # Backend 
