@@ -1,4 +1,4 @@
-# yummyformyla: Recipe Sharing Platform
+# YUMMYFORMULA: Recipe Sharing Platform
 <p>Welcome to yummyformyla, a dynamic and engaging web application where people can share and explore a wide array of delectable recipes. This project was developed using HTML, CSS, and Bootstrap for the front end and nodejs with a mongoDb database for the back end, ensuring a user-friendly experience.</p>
 
 ## Features:
@@ -7,23 +7,21 @@
     <b>Create, View, Edit, and Delete Recipes:</b> Easily create and manage your culinary creations with detailed step-by-step instructions, a list of ingredients, cooking times, and images. Customize and refine your recipes as you evolve as a cook.
   </li>
     <li>
-   <b> Explore Global Cuisines:</b> Discover a diverse range of recipes from around the world, appealing to a global audience. Use the intuitive search and filtering options to find recipes that match your taste preferences, dietary restrictions, or available ingredients.
+   <b> Explore Global Cuisines:</b> Discover a diverse range of recipes from around the world, appealing to a global audience.
   </li>
 </ul>
 
 ###
 
-# Backend 
-Back-end: Nodejs
-Database: MongoDB
+# Frontend
+Front-end: React, Axios, Bootstrap, Javascript, React icon
 <ul>
-<li>Node.js and Express.js for creating RESTful APIs to handle requests and responses.</li>
-<li>MongoDB for storing and managing tasks, user data, and authentication details.</li>
-</li>Implemented JWT, and Bcrypt for secure access.</li>
-<li>Integrate middleware for user permissions and role-based access control.</li>
+<li>React to build a complex UI interactions that communicate with the server in record time with JavaScript-driven pages.</li>
+<li>Axios used for making HTTP requests to and from servers, and for handling responses.</li>
+</li>Bootstrap to create responsive websites that work well on all screen sizes. </li>
+<li>Javascript to make webpages more interactive and engaging.</li>
+<li>React Icons are a versatile and comprehensive library of popular icons that can be easily implemented in your React projects.</li>
 </ul>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -38,7 +36,22 @@ Database: MongoDB
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354262/react-router.svg" height="40" alt="React Router"  />
   <img width="12" />
+  <img src="https://www.google.com/imgres?q=react%20icons%20ICON&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Freact-icons%2Freact-icons%2Fmaster%2Freact-icons.svg&imgrefurl=https%3A%2F%2Fgithub.com%2Freact-icons%2Freact-icons&docid=NHeh7aZHX6VteM&tbnid=in8LRqjDdtVeLM&vet=12ahUKEwjWtqGc-K-IAxWq2jgGHbh-AuUQM3oECBoQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjWtqGc-K-IAxWq2jgGHbh-AuUQM3oECBoQAA" height="40" alt="react logo"  />
+  <img width="12" />
 </div>
+
+# Backend 
+Back-end: Nodejs
+Database: MongoDB
+<ul>
+<li>Node.js and Express.js for creating RESTful APIs to handle requests and responses.</li>
+<li>MongoDB for storing and managing tasks, user data, and authentication details.</li>
+</li>Implemented JWT, and Bcrypt for secure access.</li>
+<li>Integrate middleware for user permissions and role-based access control.</li>
+</ul>
+
+###
+
 
 ## Tools used
 
