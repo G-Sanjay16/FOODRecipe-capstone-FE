@@ -40,8 +40,8 @@ export default function RecipeItems  ()  {
                 {
                     allRecipes?.map((item, index)=>{
                         return(
-                            <div  key={index} className='card'onDoubleClick={()=>navigate(`/recipe/${item._id}`)}>
-                                <img src={`https://foodrecipe-capstone-be.onrender.com/images/${item.coverImage}`} width="200px" height="140px"></img>
+                            <div key={index} className='card'onDoubleClick={()=>navigate(`/recipe/${item._id}`)}>
+                                 <img src={`https://foodrecipe-capstone-be.onrender.com/images/${item.coverImage}`} width="200px" height="140px"></img>
                                 <div className='card-body'>
                                   <div className='title'>{item.title}</div>
                                  <div className='icons'>
